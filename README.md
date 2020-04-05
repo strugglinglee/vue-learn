@@ -1,34 +1,6 @@
 # vue-learn
 
-## Project setup
+## vue是什么
 ```
-npm install
+是一套用于构建<font color=red>我是红色</font>用户界面的渐进式框架
 ```
-
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
-
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Run your tests
-```
-npm run test
-```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Run your unit tests
-```
-npm run test:unit
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
